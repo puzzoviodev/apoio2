@@ -1,0 +1,24 @@
+# Projeto Django - Loja e Pedidos
+
+Este projeto é um exemplo de aplicação Django com dois apps:
+- **loja**: Gerencia produtos.
+- **pedidos**: Gerencia pedidos relacionados aos produtos.
+
+---
+
+## ✅ Requisitos
+
+- Python 3.8+
+- pip (gerenciador de pacotes)
+- Virtualenv (opcional, mas recomendado)
+- Django 4.x
+
+---
+
+## 🚀 Passos para rodar o projeto
+
+### 1. Extrair o projeto
+Extraia o arquivo ZIP fornecido e entre na pasta do projeto:
+
+```bash
+cd meuprojeto
